@@ -3,10 +3,12 @@
     "description": "Allows adding tabular data to a page using Elemental",
     "type": "silverstripe-vendormodule",
     "keywords": [
+        "Silverstripe",
+        "Silverstripe CMS",
         "table",
         "tabular",
         "elemental",
-        "block",
+        "blocks",
         "data"
     ],
     "license": "BSD-3-Clause",
