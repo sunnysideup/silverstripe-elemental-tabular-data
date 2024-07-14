@@ -31,8 +31,8 @@
         ]
     },
     "bin": [
-        "bin/sake-npm-build-elemental-tabular-data.sh",
-        "bin/sake-npm-watch-elemental-tabular-data.sh"
+        "bin/npm-build-elemental-tabular-data.sh",
+        "bin/npm-watch-elemental-tabular-data.sh"
     ],
     "authors": [
         {
